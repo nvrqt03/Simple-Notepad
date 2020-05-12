@@ -5,7 +5,7 @@ android {
     buildToolsVersion "29.0.2"
 
     defaultConfig {
-        applicationId "com.example.simplenotepad"
+        applicationId "com.ajmitchell.simplenotepad"
         minSdkVersion 23
         targetSdkVersion 29
         versionCode 1
